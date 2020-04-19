@@ -1,6 +1,6 @@
 PROJECT TITLE: WordSearch
 PURPOSE OF PROJECT: Generate a wordsearch from user specified words or words from a file
-HOW TO START THIS PROJECT: Download the driverForWordsearch.java and wordSearch.java drag and drop them from file explorer into blueJ and run the driver
+HOW TO START THIS PROJECT: Download the driverForWordsearch.java and wordSearch.java drag and drop them from file explorer into blueJ. Download the BNCwords.txt and BasicEnglish.txt (or choose your own file and rename BasicEnglish.txt and BNCwords.txt to the name of your chosen files). Right click on the driver and run void main (string[] args).
 AUTHORS: Sean Ryan, Eoin Costello, Andrew McMahon, David Woods
 
 
